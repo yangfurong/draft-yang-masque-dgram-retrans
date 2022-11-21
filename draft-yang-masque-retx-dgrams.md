@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-area: Transport
-workgroup: MASQUE
+area: "Transport"
+workgroup: "Multiplexed Application Substrate over QUIC Encryption"
 keyword:
  - Internet-Draft
 
