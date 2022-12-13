@@ -20,7 +20,7 @@
 #
 ###
 title: "A Configurable Retransmission Extension for HTTP/3 Datagrams"
-abbrev: "TODO - Abbreviation"
+abbrev: "h3-dgram-retrans"
 category: info
 
 docname: draft-yang-masque-retx-dgrams-latest
@@ -121,7 +121,7 @@ Finding the best way to set the limit of retransmission is out of this document'
 ┌───────────────┐              ┌─────────┐            ┌───────────┐
 │  QUIC Client  │    RTT1      │UDP Proxy│    RTT2    │QUIC Server│
 ├───────────────┼──────────────┤         ├────────────┤           │
-│ Tunnel Client │              │         │            │           │
+│ MASQUE Client │              │         │            │           │
 └───────────────┘              └─────────┘            └───────────┘
 ~~~
 {: #fig-scenario title="The reference scenario"}
@@ -163,7 +163,7 @@ This document adds following entries to the "HTTP Capsule Types" registry:
 # Contributors
 {:numbered="false"}
 
-TBD
+TBD.
 
 # Acknowledgments
 {:numbered="false"}
