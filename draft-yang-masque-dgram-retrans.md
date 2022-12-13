@@ -20,10 +20,10 @@
 #
 ###
 title: "A Configurable Retransmission Extension for HTTP/3 Datagrams"
-abbrev: "h3-dgram-retrans"
+abbrev: "dgram-retrans"
 category: exp
 
-docname: draft-yang-masque-h3dgram-retrans-latest
+docname: draft-yang-masque-dgram-retrans-latest
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number:
 date:
