@@ -21,7 +21,7 @@
 ###
 title: "A Configurable Retransmission Extension for HTTP/3 Datagrams"
 abbrev: "h3-dgram-retrans"
-category: info
+category: exp
 
 docname: draft-yang-masque-retx-dgrams-latest
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
@@ -29,8 +29,8 @@ number:
 date:
 consensus: true
 v: 3
-area: Transport
-workgroup: MASQUE
+area: "Transport"
+workgroup: "MASQUE"
 keyword:
  - Internet-Draft
 
