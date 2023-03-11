@@ -47,10 +47,6 @@ author:
    fullname: Yunfei Ma
    organization: Alibaba Inc.
    email: yunfei.ma@alibaba-inc.com
- -
-   fullname: Qinghua Wu
-   organization: ICT CAS
-   email: wuqinghua@ict.ac.cn
 
 normative:
 
@@ -168,4 +164,5 @@ TBD.
 # Acknowledgments
 {:numbered="false"}
 
-TODO acknowledge.
+The authors would like to thank Qinghua Wu, Jiaxing Zhang, and Zhenyu Li for
+discussions and comments on the design of this draft.
