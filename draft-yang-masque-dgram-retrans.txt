@@ -5,10 +5,8 @@
 MASQUE                                                           F. Yang
 Internet-Draft                                                    Y. Liu
 Intended status: Experimental                                      Y. Ma
-Expires: 16 June 2023                                       Alibaba Inc.
-                                                                   Q. Wu
-                                                                 ICT CAS
-                                                        13 December 2022
+Expires: 12 September 2023                                  Alibaba Inc.
+                                                           11 March 2023
 
 
       A Configurable Retransmission Extension for HTTP/3 Datagrams
@@ -50,11 +48,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 16 June 2023.
+   This Internet-Draft will expire on 12 September 2023.
 
 Copyright Notice
 
-   Copyright (c) 2022 IETF Trust and the persons identified as the
+   Copyright (c) 2023 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -366,7 +364,8 @@ Contributors
 
 Acknowledgments
 
-   TODO acknowledge.
+   The authors would like to thank Qinghua Wu, Jiaxing Zhang, and Zhenyu
+   Li for discussions and comments on the design of this draft.
 
 Authors' Addresses
 
@@ -383,8 +382,3 @@ Authors' Addresses
    Yunfei Ma
    Alibaba Inc.
    Email: yunfei.ma@alibaba-inc.com
-
-
-   Qinghua Wu
-   ICT CAS
-   Email: wuqinghua@ict.ac.cn
