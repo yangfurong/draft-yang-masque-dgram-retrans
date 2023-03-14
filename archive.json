@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-03-12T01:18:48.528738+00:00",
+  "timestamp": "2023-03-14T01:04:08.130132+00:00",
   "repo": "yangfurong/draft-yang-masque-dgram-retrans",
   "labels": [
     {
@@ -63,7 +63,7 @@
       "labels": [],
       "body": "",
       "createdAt": "2023-03-11T13:01:16Z",
-      "updatedAt": "2023-03-11T13:01:16Z",
+      "updatedAt": "2023-03-13T09:28:19Z",
       "baseRepository": "yangfurong/draft-yang-masque-dgram-retrans",
       "baseRefName": "main",
       "baseRefOid": "59643c13f21c85a302202f4a32dc1e1a1cca2db6",
@@ -75,7 +75,21 @@
       "mergedBy": null,
       "mergeCommit": null,
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOIeV8dM5PqjPY",
+          "commit": {
+            "abbreviatedOid": "7ae10a2"
+          },
+          "author": "Yanmei-Liu",
+          "authorAssociation": "COLLABORATOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2023-03-13T09:28:19Z",
+          "updatedAt": "2023-03-13T09:28:19Z",
+          "comments": []
+        }
+      ]
     }
   ]
 }
